@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ali\desktop\job\cv\code\interview\interview\main.cpp(14): warning C4804: '%': unsafe use of type 'bool' in operation
+c:\users\ali\desktop\job\cv\code\interview\interview\main.cpp(14): warning C4552: '*': operator has no effect; expected operator with side-effect
+c:\users\ali\desktop\job\cv\code\interview\interview\main.cpp(18): warning C4715: 'power_ali': not all control paths return a value
+  INTERVIEW.vcxproj -> C:\Users\Ali\Desktop\job\cv\code\INTERVIEW\Debug\INTERVIEW.exe
+  INTERVIEW.vcxproj -> C:\Users\Ali\Desktop\job\cv\code\INTERVIEW\Debug\INTERVIEW.pdb (Partial PDB)
